@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 # 
-This is an example of a very simple neural network (a 2-layer MLP) written from scratch in pure Python (using only NumPy for matrix math). It learns the XOR function. The code includes:
+This is an example of a very simple neural network (a 2-layer multilayer perceptron) written from scratch in pure Python (using only NumPy for matrix math). It learns the XOR function. The code includes:
 
     - A tiny dataset (XOR truth table)
     
